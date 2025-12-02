@@ -1,4 +1,4 @@
-# service_registry<div align="center">
+<div align="center">
   <h1>🏛️ ScholarAI Service Registry</h1>
   <p><strong>Netflix Eureka Service Discovery Server</strong></p>
   
