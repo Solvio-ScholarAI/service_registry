@@ -34,7 +34,7 @@
 - **Containerized**: Docker support with health checks
 - **Scalable**: Horizontal scaling with peer-to-peer replication
 
----
+---------------
 
 ## 🚀 **Quick Start**
 
@@ -283,7 +283,7 @@ Access the Eureka Dashboard at `http://localhost:8761` to view:
 - **Health Indicators**: Visual health status with color coding
 - **Emergency Mode**: Self-preservation mode activation status
 
----
+--------------------------
 
 ## 🔧 **Development & Testing**
 
