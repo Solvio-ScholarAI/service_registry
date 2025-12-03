@@ -198,7 +198,7 @@ eureka.server.peer-eureka-nodes-update-interval-ms=10000
 eureka.server.number-of-replication-retries=5
 ```
 
----
+--------------------------------------------------
 
 ## 📊 **API Endpoints**
 
