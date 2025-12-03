@@ -47,7 +47,7 @@
 
 1. **Clone and Build**
    ```bash
-   git clone https://github.com/Javafest2025/service-registry.git
+   git clone https://github.com/Solvio-ScholarAI/service-registry.git
    cd service-registry
    ./mvnw clean install
    ```
