@@ -12,7 +12,7 @@
   [Architecture](#-architecture) · [Quick Start](#-quick-start) · [API Documentation](#-api-endpoints) · [Monitoring](#-monitoring)
 </div>
 
----
+----------------------------------------
 
 ## ✨ **Core Features**
 
@@ -482,7 +482,7 @@ This project is licensed under the **MIT License** - see the [LICENSE.md](LICENS
 - **Spring Boot Team** for the comprehensive framework
 - **Community Contributors** for feedback and improvements
 
----
+------------
 
 <div align="center">
   <p><strong>Built with ☕ for the ScholarAI microservices ecosystem</strong></p>
